@@ -13,7 +13,7 @@ library(tidyr)
 ```
 
 ```{r}
-data <- read.csv("berkeley_dataset.csv")
+data <- read.csv("../data/berkeley_dataset.csv")
 ```
 
 EDA:
